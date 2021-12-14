@@ -2,9 +2,9 @@
   "name": "handler",
   "version": "2.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "Pixel.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node Pixel.js"
   },
   "keywords": [],
   "author": "KabirSingh",
